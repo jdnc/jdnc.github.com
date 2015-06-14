@@ -6,5 +6,5 @@ title: About
 
 Hello friend! I am Madhura Parikh, a software developer working at the <a href='http://aws.amazon.com/'> earth's most customer centric company</a>. 
 Previously I finished my Masters in Computer Science  at <a href="http://www.cs.utexas.edu/">The University of Texas, Austin</a> and my B.Tech in Coputer Engineering from <a href = "http://www.svnit.ac.in/">National Institute of Technology, Surat (India)</a>.
-More details at [LinkedIn](http://www.linkedin.com/in/rasmusandersson).
+More details at [LinkedIn](https://www.linkedin.com/in/madhuraparikh).
 
