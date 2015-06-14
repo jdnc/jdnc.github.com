@@ -1,8 +1,7 @@
-title: RedCup
-description: "Redcup: An awesome Theme for Jekyll"
+title: Madhura
+description: "I have a cute li'l bear that codes!"
 
-url: http://nadjetey.github.io/redcup/
-port: 3000
+url: http://objdump.me/
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title.html
@@ -11,6 +10,5 @@ markdown: redcarpet
 google_analytics: #
 
 owner:
-  name: Nii Adjetey Sowah
-  disqus_shortname: nadjetey
-  twitter: _nadjetey
+  name: Madhura Parikh
+  twitter: 11011infinity
