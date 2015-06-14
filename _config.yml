@@ -5,7 +5,9 @@ url: http://objdump.me/
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title.html
-markdown: redcarpet
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 
 google_analytics: #
 
