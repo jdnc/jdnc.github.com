@@ -1,1 +1,4 @@
-
+---
+layout: dirindex
+title: Projects
+---
