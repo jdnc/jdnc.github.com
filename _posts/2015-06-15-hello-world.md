@@ -2,6 +2,7 @@
 layout: post
 title:  Hello World!
 tags:   blogging
+comments : true
 image:  hello-world.gif
 ---
 
