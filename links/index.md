@@ -21,6 +21,7 @@ Here's a collection of random links that I have found useful.
 
 ### Developer resources
 - [Vim plugin for linux-coding-style](https://github.com/vivien/vim-addon-linux-coding-style)
+- [Searchable linux kernel source](http://lxr.free-electrons.com/)
 - [Nice write-up on Vim](http://benmccormick.org/learning-vim-in-2014/)
 - [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 - [Advanced git branching/merging]( http://pcottle.github.io/learnGitBranching/ ) Warning! this does start off a bit slow, skip as reqd.
