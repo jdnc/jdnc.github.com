@@ -10,7 +10,6 @@ Here's a collection of random links that I have found useful.
 - [Crypto challenge](http://cryptopals.com/)
 
 ### Online courses
-These courses often have videos + assignments and readings that are available online. So the courses are practically open for pretty much anyone!
 - [Dr Feamster's Networks course](http://www.cs.princeton.edu/courses/archive/spring15/cos461/)
 - [Dr Feamster's SDN course](https://www.coursera.org/course/sdn1)
 - [Dr Zeldovich's Security course](http://css.csail.mit.edu/6.858/2014/)
