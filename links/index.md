@@ -10,10 +10,11 @@ Here's a collection of random links that I have found useful.
 - [Crypto challenge](http://cryptopals.com/)
 
 ### Online courses
-- [Dr Feamster's Networks course](http://www.cs.princeton.edu/courses/archive/spring15/cos461/)
-- [Dr Feamster's SDN course](https://www.coursera.org/course/sdn1)
-- [Dr Zeldovich's Security course](http://css.csail.mit.edu/6.858/2014/)
-- [Dr Morris' Distributed Systems course](http://nil.csail.mit.edu/6.824/2015/)
+- [Networks course (Prof Nick Feamster)](http://www.cs.princeton.edu/courses/archive/spring15/cos461/)
+- [SDN course (Prof Nick Feamster)](https://www.coursera.org/course/sdn1)
+- [Security course (Prof Nikolai Zeldovich)](http://css.csail.mit.edu/6.858/2014/)
+- [Distributed Systems (Prof Robert Morris)](http://nil.csail.mit.edu/6.824/2015/)
+- [Systems in Haskell (Prof David Mazieres)](http://www.scs.stanford.edu/14sp-cs240h/)
 
 ### Great Systems Material available online
 - [Grad OS readings at UT Austin](https://www.cs.utexas.edu/~witchel/380L/schedule.html)
