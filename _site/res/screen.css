@@ -6,14 +6,13 @@
     font-family: 'handwritting';
     font-style: normal;
     font-weight: 500;
-    src: url('/res/tallpaul.ttf')
+    src: url("../res/airport.ttf")
         format('truetype');
 }
 
 #blog-title {
     font-family: 'handwritting';  
     font-size: 40px;
-    font-style: italic;
     text-transform: uppercase;
 }
 #blog-title a{    

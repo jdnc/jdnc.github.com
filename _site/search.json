@@ -1,19 +1,51 @@
 [
     
     {
-        "title": "Hello World!",
+        "title": "manpage of the week - mincore",
         "category": "",
-        "url": "/2013/07/15/hello-world.html",
-        "date": "2013-07-15 00:00:00 +0000",
-        "shortdate": "July 15, 2013"
+        "url": "/2015/07/09/mincore.html",
+        "date": "2015-07-09 00:00:00 -0700",
+        "shortdate": "July 09, 2015"
     } , 
     
     {
-        "title": "Placeholder post",
+        "title": "manpage of the week - mincore",
         "category": "",
-        "url": "/2013/05/06/more-post.html",
-        "date": "2013-05-06 15:27:31 +0000",
-        "shortdate": "May 06, 2013"
+        "url": "/2015/07/09/mincore.html",
+        "date": "2015-07-09 00:00:00 -0700",
+        "shortdate": "July 09, 2015"
+    } , 
+    
+    {
+        "title": "SQL Injection ROFL",
+        "category": "",
+        "url": "/2015/06/16/xkcd.html",
+        "date": "2015-06-16 00:00:00 -0700",
+        "shortdate": "June 16, 2015"
+    } , 
+    
+    {
+        "title": "SQL Injection ROFL",
+        "category": "",
+        "url": "/2015/06/16/xkcd.html",
+        "date": "2015-06-16 00:00:00 -0700",
+        "shortdate": "June 16, 2015"
+    } , 
+    
+    {
+        "title": "Hello World!",
+        "category": "",
+        "url": "/2015/06/15/hello-world.html",
+        "date": "2015-06-15 00:00:00 -0700",
+        "shortdate": "June 15, 2015"
+    } , 
+    
+    {
+        "title": "Hello World!",
+        "category": "",
+        "url": "/2015/06/15/hello-world.html",
+        "date": "2015-06-15 00:00:00 -0700",
+        "shortdate": "June 15, 2015"
     } 
     
 ]

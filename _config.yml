@@ -1,7 +1,6 @@
 title: Madhura Parikh
 description: "I have a cute li'l bear that codes!"
 
-url: http://objdump.me/
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title.html
