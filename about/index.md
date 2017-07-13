@@ -3,7 +3,6 @@ layout: page
 
 title: About
 ---
-<a href="https://www.flickr.com/photos/131886193@N05/18331540771" title="Untitled by madhura parikh, on Flickr"><img src="https://c1.staticflickr.com/1/462/18331540771_0e9a3e02a4_k.jpg" width="200" height="250" align="right" alt="What I look like"></a>
 
 I am software developer at <a href='https://www.twosigma.com/'> Two Sigma </a> in New York. Previously I spent a couple of years in Seattle working at the <a href='http://aws.amazon.com/'> earth's most customer centric company</a>. 
 
