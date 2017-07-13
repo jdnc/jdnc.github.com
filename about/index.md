@@ -16,7 +16,7 @@ I finished my Masters in Computer Science  from <a href="http://www.cs.utexas.ed
 - [Facebook](https://www.facebook.com/profile.php?id=100009787530704)
 
 ## Contact me
-If you would like to get in touch, feel free to shoot me a [mail](mailto:madhuraparikh@gmail.com)
+If you would like to get in touch, feel free to shoot me a mail {firstname}{lastname}@gmail.com
 
 
 
