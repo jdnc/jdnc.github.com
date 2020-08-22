@@ -12,3 +12,5 @@ google_analytics: #
 owner:
   name: Madhura Parikh
   twitter: 11011infinity
+
+theme: jekyll-theme-minimal
