@@ -3,17 +3,17 @@
 }
 
 @font-face {
-    font-family: 'Fredericka the Great', cursive;
-    font-style: normal;
+    font-family: 'Fredericka the Great';
+    font-style: cursive;
     font-weight: 500;
-    src: url("../res/airport.ttf")
+    src: url("../res/FrederickatheGreat-Regular.ttf")
         format('truetype');
 }
 
 #blog-title {
-    font-family: 'Fredericka the Great', cursive
+    font-family: 'Fredericka the Great';
+    font-style: cursive;
     font-size: 40px;
-    text-transform: uppercase;
 }
 #blog-title a{    
     text-decoration: none;
