@@ -12,6 +12,7 @@ I finished my Masters in Computer Science  from <a href="http://www.cs.utexas.ed
 ## Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/madhuraparikh)
 - [GitHub](https://github.com/jdnc)
+- [Google Scholar](https://scholar.google.com/citations?user=5Elaw3MAAAAJ&hl=en)
 - [Facebook](https://www.facebook.com/profile.php?id=100009787530704)
 - [Instagram](https://www.instagram.com/madhuraparikh/) 
 
