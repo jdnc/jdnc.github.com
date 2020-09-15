@@ -4,7 +4,7 @@ layout: page
 title: About
 ---
 
-I am software developer at <a href='https://www.twosigma.com/'> Two Sigma </a> in New York. Previously I spent a couple of years in Seattle working at the <a href='http://aws.amazon.com/'> earth's most customer centric company</a>. 
+I am a Software Engineer currently working at Facebook, New York. Previously I worked briefly at a <a href='https://www.twosigma.com/'> hedge fund </a>. Before that, I spent a couple of years in Seattle working on databases at the <a href='http://aws.amazon.com/'> earth's most customer centric company</a>. 
 
 I finished my Masters in Computer Science  from <a href="http://www.cs.utexas.edu/">The University of Texas, Austin</a> and my B.Tech in Computer Engineering from <a href = "http://www.svnit.ac.in/">National Institute of Technology, Surat (India)</a>.
 
