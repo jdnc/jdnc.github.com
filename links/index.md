@@ -1,6 +1,6 @@
 ---
 layout : page
-title : Useful links
+title : Bookmarks
 ---
 
 Here's a collection of random links that I have found useful. 
